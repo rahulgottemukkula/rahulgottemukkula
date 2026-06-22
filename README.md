@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Rahul Gottemukkula 👋
 
-<!--
-**rahulgottemukkula/rahulgottemukkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science and Engineering (Data Analytics) from VIT-AP University
 
-Here are some ideas to get you started:
+💡 Aspiring AI Engineer | Machine Learning Engineer | Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Data Science enthusiast with a strong foundation in Python, SQL, Machine Learning, Deep Learning, Data Analytics, and Power BI. I enjoy solving real-world problems using data-driven approaches and continuously expanding my knowledge in AI and Machine Learning.
+
+## Technical Skills
+
+* Python
+* SQL
+* Machine Learning
+* Deep Learning
+* Data Analytics
+* Power BI
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+
+## Projects
+
+* Video Captioning & Emotion Recognition using CNN-LSTM
+* California Housing Price Prediction
+* Heart Disease Prediction
+* SQL Data Analysis Projects
+* Power BI Business Dashboards
+
+## Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* Model Deployment
+* AI Applications
+
+## Career Goal
+
+Seeking opportunities in Data Science, Machine Learning, AI Engineering, and Analytics where I can contribute, learn, and grow as a technology professional.
+
+📍 Hyderabad, India
